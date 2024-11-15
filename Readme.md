@@ -30,6 +30,19 @@ A comprehensive simulation of various CPU scheduling algorithms implemented in C
    ```bash
    git clone https://github.com/Deepanshurathore01/Scheduling-Algo.git
 
+2. Navigate to the project directory:
+
+  cd ShedulingAlogorithms
+  
+3. Compile the program:
+
+   g++ scheduling_simulator.cpp -o scheduling_simulator
+   
+4. Run the executable:
+
+bash
+Copy code
+./scheduling_simulator
 
 
 
